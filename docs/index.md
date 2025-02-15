@@ -19,7 +19,7 @@ In this section, you will find all essential information for players. This inclu
 
 
 <span class="fs-5">
-[Learn More About Player Rules & FAQs](https://chrischivlog.github.io/test/players.html){: .btn .btn-outline }
+[Learn More About Player Rules & FAQs](players.html){: .btn .btn-outline }
 </span>
 
 Developer
@@ -30,7 +30,7 @@ Developer
 This section is dedicated to developers working with the InfinityHeroes server. You'll find detailed documentation about our APIs, libraries, and coding guidelines. Whether you're contributing to our server or developing custom plugins, this is your go-to resource.
 
 <span class="fs-5">
-[Explore Developer Docs & Guidelines](https://chrischivlog.github.io/test/devs.html){: .btn .btn-outline }
+[Explore Developer Docs & Guidelines](devs.html){: .btn .btn-outline }
 </span>
 
 ---
