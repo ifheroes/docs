@@ -1,0 +1,9 @@
+title: Infinityheroes Documentation
+description: The offical Documentation of ifheroes.de
+theme: just-the-docs
+source: docs
+
+url: https://just-the-docs.github.io
+
+aux_links:
+  Website: https://ifheroes.de
