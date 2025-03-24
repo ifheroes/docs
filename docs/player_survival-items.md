@@ -39,8 +39,7 @@ The **Mob Basket** allows you to pick up and transport peaceful mobs such as cow
 
 #### ⚠️ Limitations  
 - Only works on peaceful mobs.  
-- Cannot be used in the Farmworld.  
-
+- Currently only 20 uses possible.
 ---
 
 ### **I Need Further Help ⛑️**
