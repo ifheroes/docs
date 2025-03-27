@@ -24,6 +24,7 @@ If you're uncertain about a modification, assume it's prohibited.
 | **No-Chat-Reports**     | [https://modrinth.com/mod/no-chat-reports/versions](https://modrinth.com/mod/no-chat-reports/versions) |
 | **Soundphysics Remastered** | [https://modrinth.com/mod/sound-physics-remastered/versions](https://modrinth.com/mod/sound-physics-remastered/versions) |
 | **Physics Mod**         | [https://minecraftphysicsmod.com/](https://minecraftphysicsmod.com/)        |
+| **Distant Horizons**         | [https://modrinth.com/mod/distanthorizons](https://modrinth.com/mod/distanthorizons)        |
 
 > **Note**  
 > If you believe a modification should be added to this list, please contact us on our [Discord Community Server](https://ifheroes.de/discord) (Support section) or in-game via a support ticket. If we determine the mod to be server-friendly, we will update the list accordingly.
