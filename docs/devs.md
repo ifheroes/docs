@@ -22,4 +22,4 @@ The Infinityheroes API provides endpoints to access various functionalities of t
 ### Base URL
 
 All API requests are made to the following base URL:
-https://api.ifheroes.de/v1/
+https://api.ifheroes.net/v1/

@@ -8,7 +8,7 @@ nav_order: 3
 
 ### Endpoint
 
-`GET https://api.ifheroes.de/v1/news`
+`GET https://api.ifheroes.net/v1/news`
 
 ### Description
 
@@ -17,7 +17,7 @@ The News endpoint provides the latest news updates related to the Infinityheroes
 ### Example Request
 
 ```sh
-curl -X GET "https://api.ifheroes.de/v1/news"
+curl -X GET "https://api.ifheroes.net/v1/news"
 ```
 
 ### Example Response
@@ -28,7 +28,7 @@ The response is a JSON array of news objects. Below is an example of the returne
 [
     {
         "number": "1",
-        "path": "https://api.ifheroes.de/v1/news/exports/05-22-2024_21-11-38.json",
+        "path": "https://api.ifheroes.net/v1/news/exports/05-22-2024_21-11-38.json",
         "date": "22-05-2024",
         "file_id": "24052024104510",
         "title": "Test",
@@ -37,7 +37,7 @@ The response is a JSON array of news objects. Below is an example of the returne
     },
     {
         "number": "2",
-        "path": "https://api.ifheroes.de/v1/news/exports/05-22-2024_21-11-33.json",
+        "path": "https://api.ifheroes.net/v1/news/exports/05-22-2024_21-11-33.json",
         "date": "22-05-2024",
         "file_id": "22052024091133",
         "title": "Test",
@@ -46,7 +46,7 @@ The response is a JSON array of news objects. Below is an example of the returne
     },
     {
         "number": "3",
-        "path": "https://api.ifheroes.de/v1/news/exports/05-22-2024_21-11-29.json",
+        "path": "https://api.ifheroes.net/v1/news/exports/05-22-2024_21-11-29.json",
         "date": "22-05-2024",
         "file_id": "22052024091129",
         "title": "Test",
@@ -78,4 +78,4 @@ This endpoint is useful for retrieving the latest news updates regarding the Inf
 For further assistance or inquiries, please contact our support team via our [Discord server](https://ifheroes.de/discord).
 ```
 
-This description provides a detailed overview of the `https://api.ifheroes.de/v1/news` endpoint, including its usage, response format, and example requests and responses.
+This description provides a detailed overview of the `https://api.ifheroes.net/v1/news` endpoint, including its usage, response format, and example requests and responses.

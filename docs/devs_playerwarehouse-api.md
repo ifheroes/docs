@@ -60,7 +60,7 @@ The Player Data Management endpoint provides the latest player profiles for the 
 
 ### Check API-Key
 
-`GET https://api.ifheroes.de/v1/warehouse/?checkauth`
+`GET https://api.ifheroes.net/v1/warehouse/?checkauth`
 
 #### Description
 
@@ -69,7 +69,7 @@ Check if the API-Key is valid.
 #### Example Request
 
 ```sh
-curl -X GET "https://api.ifheroes.de/v1/warehouse/?checkauth" \
+curl -X GET "https://api.ifheroes.net/v1/warehouse/?checkauth" \
      -H "Authorization: Bearer YOUR_API_KEY"
 ```
 
@@ -97,7 +97,7 @@ This endpoint is useful for retrieving comprehensive player data from the Infini
 
 ### Get Player Profile
 
-`GET https://api.ifheroes.de/v1/warehouse/`
+`GET https://api.ifheroes.net/v1/warehouse/`
 
 #### Description
 
@@ -106,7 +106,7 @@ Retrieve the complete player profile with all available information.
 #### Example Request
 
 ```sh
-curl -X GET "https://api.ifheroes.de/v1/warehouse/?uuid={UUID}" \
+curl -X GET "https://api.ifheroes.net/v1/warehouse/?uuid={UUID}" \
      -H "Authorization: Bearer YOUR_API_KEY"
 ```
 
@@ -147,7 +147,7 @@ This endpoint is useful for retrieving comprehensive player data from the Infini
 
 ### Delete player profile
 
-`DELETE https://api.ifheroes.de/v1/warehouse/`
+`DELETE https://api.ifheroes.net/v1/warehouse/`
 
 #### Description
 
@@ -156,7 +156,7 @@ Delete the complete player profile with all available information from the playe
 #### Example Request
 
 ```sh
-curl -X DELETE "https://api.ifheroes.de/v1/warehouse/?delete={UUID}" \
+curl -X DELETE "https://api.ifheroes.net/v1/warehouse/?delete={UUID}" \
      -H "Authorization: Bearer YOUR_API_KEY"
 ```
 
@@ -183,7 +183,7 @@ This endpoint is useful for deleting comprehensive player data from the Infinity
 
 ### Post a New Player Profile
 
-`POST https://api.ifheroes.de/v1/warehouse/`
+`POST https://api.ifheroes.net/v1/warehouse/`
 
 #### Description
 
@@ -202,7 +202,7 @@ curl -H 'Content-Type: application/json' \
            }
          }' \
      -X POST \
-     https://api.ifheroes.de/v1/warehouse/
+     https://api.ifheroes.net/v1/warehouse/
 ```
 
 #### Example Response
@@ -232,7 +232,7 @@ This endpoint is useful for creating new player profiles in the Infinityheroes s
 
 ### Update Profile BasicData
 
-`POST https://api.ifheroes.de/v1/warehouse/`
+`POST https://api.ifheroes.net/v1/warehouse/`
 
 #### Description
 
@@ -251,7 +251,7 @@ curl -H 'Content-Type: application/json' \
            }
          }' \
      -X POST \
-     https://api.ifheroes.de/v1/warehouse/
+     https://api.ifheroes.net/v1/warehouse/
 ```
 
 #### Example Response
@@ -281,7 +281,7 @@ This endpoint allows for updating basic player information, such as the player's
 
 ### Delete a Player Profile
 
-`DELETE https://api.ifheroes.de/v1/warehouse/`
+`DELETE https://api.ifheroes.net/v1/warehouse/`
 
 #### Description
 
@@ -290,7 +290,7 @@ Deletes an existing player profile from the warehouse.
 #### Example Request
 
 ```sh
-curl -X DELETE "https://api.ifheroes.de/v1/warehouse/?delete={UUID}" \
+curl -X DELETE "https://api.ifheroes.net/v1/warehouse/?delete={UUID}" \
      -H "Authorization: Bearer YOUR_API_KEY"
 ```
 
@@ -321,7 +321,7 @@ This endpoint is useful for removing player profiles from the Infinityheroes ser
 
 ### Update AdvancedData
 
-`POST https://api.ifheroes.de/v1/warehouse/`
+`POST https://api.ifheroes.net/v1/warehouse/`
 
 #### Description
 
@@ -340,7 +340,7 @@ curl -H 'Content-Type: application/json' \
            }
          }' \
      -X POST \
-     https://api.ifheroes.de/v1/warehouse/
+     https://api.ifheroes.net/v1/warehouse/
 ```
 
 #### Example Response
@@ -370,7 +370,7 @@ This endpoint allows for updating advanced player information, such as language 
 
 ### Update PluginData
 
-`POST https://api.ifheroes.de/v1/warehouse/`
+`POST https://api.ifheroes.net/v1/warehouse/`
 
 #### Description
 
@@ -391,7 +391,7 @@ curl -H 'Content-Type: application/json' \
            }
          }' \
      -X POST \
-     https://api.ifheroes.de/v1/warehouse/
+     https://api.ifheroes.net/v1/warehouse/
 ```
 
 #### Example Response
@@ -444,7 +444,7 @@ This endpoint is intended for updating plugin-specific data within the player pr
 The URL is an example URL that must be queried with the known key.
 
 ```
-https://api.ifheroes.de/v1/warehouse?uuid=41e84db3-3d9a-4123-a070-22bcf28efe16
+https://api.ifheroes.net/v1/warehouse?uuid=41e84db3-3d9a-4123-a070-22bcf28efe16
 ```
 
 ### Schema for Creating a New Player Profile (POST)
@@ -501,4 +501,4 @@ https://api.ifheroes.de/v1/warehouse?uuid=41e84db3-3d9a-4123-a070-22bcf28efe16
 
 For further assistance or inquiries, please contact our support team via our [Discord server](https://ifheroes.de/discord).
 
-This documentation provides a comprehensive overview of the `https://api.ifheroes.de/v1/warehouse/` endpoint, including its usage, response formats, and example requests and responses. Ensure that your application adheres to the provided schemas and handles responses appropriately for seamless integration with the Infinityheroes server.
+This documentation provides a comprehensive overview of the `https://api.ifheroes.net/v1/warehouse/` endpoint, including its usage, response formats, and example requests and responses. Ensure that your application adheres to the provided schemas and handles responses appropriately for seamless integration with the Infinityheroes server.
