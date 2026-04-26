@@ -15,7 +15,7 @@ nach **10 unvergesslichen Jahren** ist es an der Zeit, uns von **ifheroes.net** 
 - Unser **Discord-Server** bleibt weiterhin bestehen. Ihr könnt euch dort weiterhin austauschen, gemeinsam zocken oder einfach in Kontakt bleiben.
 - **Alle Projektinhalte**, inklusive des **Source-Codes**, sind ab sofort auf **GitHub** verfügbar: [github.com/ifheroes](https://github.com/ifheroes)
 
-👉 **[Hier geht’s zu unserem Discord](https://discord.gg/4BBFdahqDS)** – wir freuen uns, euch auch dort zu sehen!
+**[Hier geht’s zu unserem Discord](https://discord.gg/4BBFdahqDS)** – wir freuen uns, euch auch dort zu sehen!
 
 ### Danke an alle
 Ein riesiges Dankeschön geht an alle **Spieler, Vets, Supporter, PvP-Gurus, Survival-Experten und Code-Champions**, die ifheroes zu etwas Besonderem gemacht haben. Ohne euch wäre das alles nicht möglich gewesen.
