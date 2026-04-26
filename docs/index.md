@@ -4,34 +4,27 @@ layout: home
 nav_order: 1
 ---
 
-# Welcome to InfinityHeroes.de Docs
+# Ein Abschied nach 10 Jahren
 
-Welcome to the official documentation platform for the **InfinityHeroes.de** Minecraft server! Here you will find everything you need to know about our server, from the rules and FAQs to developer documentation and coding guidelines. Explore the sections below to get started.
+Liebe Community,
 
-****
+nach **10 unvergesslichen Jahren** ist es an der Zeit, uns von **ifheroes.net** zu verabschieden. Aus zeitlichen und persönlichen Gründen können wir das Projekt leider nicht mehr weiterführen. Es war eine unglaubliche Reise, und wir sind unendlich dankbar für die gemeinsame Zeit, die Erinnerungen und die Leidenschaft, die ihr alle in diese Community gesteckt habt.
 
-Player
-{: .label .label-yellow }
+### Was passiert jetzt?
+- Der **Server** bleibt noch bis zum **30. April** online.
+- Unser **Discord-Server** bleibt weiterhin bestehen. Ihr könnt euch dort weiterhin austauschen, gemeinsam zocken oder einfach in Kontakt bleiben.
+- **Alle Projektinhalte**, inklusive des **Source-Codes**, sind ab sofort auf **GitHub** verfügbar: [github.com/ifheroes](https://github.com/ifheroes)
 
-## Player Documentation
+👉 **[Hier geht’s zu unserem Discord](https://discord.gg/4BBFdahqDS)** – wir freuen uns, euch auch dort zu sehen!
 
-In this section, you will find all essential information for players. This includes server rules, frequently asked questions, guides, and more. Make sure to check out everything to enhance your experience on the server!
+### Danke an alle
+Ein riesiges Dankeschön geht an alle **Spieler, Vets, Supporter, PvP-Gurus, Survival-Experten und Code-Champions**, die ifheroes zu etwas Besonderem gemacht haben. Ohne euch wäre das alles nicht möglich gewesen.
 
+Danke für die **Late-Night-Sessions**, die **TeamSpeak-Chaos-Momente** und die unzähligen Abenteuer auf dem Server. Ihr habt einen besonderen Platz in unseren Herzen.
 
-<span class="fs-5">
-[Learn More About Player Rules & FAQs](players.html){: .btn .btn-outline }
-</span>
+Mit Wehmut, aber auch mit Stolz auf das, was wir gemeinsam erreicht haben,
 
-Developer
-{: .label .label-yellow }
-
-## Developer Documentation
-
-This section is dedicated to developers working with the InfinityHeroes server. You'll find detailed documentation about our APIs, libraries, and coding guidelines. Whether you're contributing to our server or developing custom plugins, this is your go-to resource.
-
-<span class="fs-5">
-[Explore Developer Docs & Guidelines](devs.html){: .btn .btn-outline }
-</span>
+**Euer ifheroes-Team**
 
 ---
 <iframe src="https://discord.com/widget?id=355790224527327232&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
