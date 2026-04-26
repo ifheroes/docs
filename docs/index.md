@@ -25,6 +25,3 @@ Danke für die **Late-Night-Sessions**, die **TeamSpeak-Chaos-Momente** und die 
 Mit Wehmut, aber auch mit Stolz auf das, was wir gemeinsam erreicht haben,
 
 **Euer ifheroes-Team**
-
----
-<iframe src="https://discord.com/widget?id=355790224527327232&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
